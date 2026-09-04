@@ -1,3 +1,5 @@
+Stack and Heap Memory in C#
+
 Order o1 = new Order { OrderId = 1, CustomerName = "Ali" };
 Order o2 = o1;
 o2.IsPaid = true;
